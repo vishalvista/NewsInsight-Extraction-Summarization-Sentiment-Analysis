@@ -1,0 +1,15 @@
+beautifulsoup4
+requests
+nltk
+transformers
+torch
+gtts
+streamlit
+flask
+gradio
+#streamlit==1.31.1
+#requests==2.31.0
+#beautifulsoup4==4.12.3
+textblob==0.17.1
+#gtts==2.4.0
+lxml==5.1.0
